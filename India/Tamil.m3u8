@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-upHJVhj9Ab0/X8XDtXUFrUI/AAAAAAAAAzA/XkD1k6t81PQGB_4Rt_O8V61heui5MoCbgCLcBGAsYHQ/s0/logo_1%2B256px.png" group-title="Tamil (தமிழ்)", Sooriyan TV
+http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 #EXTINF:-1 tvg-logo="http://www.1yestv.com/images/logo.png" group-title="Tamil (தமிழ்)", 1Yes TV
 http://150.242.21.2/oneyes.m3u8
 #EXTINF:-1 tvg-logo="http://mediaworldasia.dk/images/makrologo/tamil/aaryaatv.jpg" group-title="Tamil (தமிழ்)", Aarya TV
@@ -68,3 +70,5 @@ http://edge-ind.inapcdn.in:1935/wrap/smarts4n.stream_aac/playlist.m3u8
 http://45.79.203.234:1935/vendharm/myStream/chunklist_w200179631index.m3u8
 #EXTINF:-1 tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2017/10/Zee-Tamil_10.jpg" group-title="Tamil (தமிழ்)",Zee Tamil
 http://z5ams.akamaized.net/zeetamil/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FZcSGZsWWJw/X5Db2x6RBRI/AAAAAAAAAUU/3lYkIMrgQnIlUSOt31WMMNJ1Itdo8iTMwCLcBGAsYHQ/s16000/center-logo1_1fz4h7e.png" group-title="Tamil (தமிழ்)",Jaffna TV
+http://cdn.jwplayer.com/previews/LNdcgulf-o4j6Jv34.m3u8
